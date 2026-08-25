@@ -3,3 +3,4 @@ project/target/
 *.class
 .idea/
 .vscode/
+.bsp/
