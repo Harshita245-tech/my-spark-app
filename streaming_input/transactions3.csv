@@ -1,0 +1,2 @@
+transaction_id,customer_id,amount,transaction_type,timestamp
+T006,C004,50,DEPOSIT,2026-08-26 12:00:00
