@@ -1,6 +1,11 @@
+# SBT / Scala build files
 target/
 project/target/
-*.class
+
+# Logs
+*.log
+
+# IDE files
 .idea/
 .vscode/
 .bsp/
